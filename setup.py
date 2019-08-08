@@ -7,7 +7,7 @@ setuptools.setup(
     license='BSD-3-Clause',
     description='Fits item response theory models using psytan',
     #long_description=open('README.txt').read(),
-    install_requires=['pystan', 'numpy', 'patsy', 'contextlib'],
+    install_requires=['pystan', 'numpy', 'patsy'],
     url='https://?',
     author='Daniel Furr',
     author_email='danielcfurr@gmail.com',
